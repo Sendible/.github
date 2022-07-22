@@ -5,4 +5,4 @@ Sendible allows agencies to manage clients at scale and profiles across multiple
 Over 30,000+ agencies and marketers rely on Sendible to breathe life into their brands and truly make an impact through storytelling.
 Sendible strongly believes in doing whatever it takes to empower our customers to be successful.
 
-Sendible's Open Source contributions can be found in the [Sendible Labs Organisation](https://github.com/sendible-labs)
+Sendible's Open Source contributions can be found in the [Sendible Labs Organisation](https://github.com/sendible-labs).
